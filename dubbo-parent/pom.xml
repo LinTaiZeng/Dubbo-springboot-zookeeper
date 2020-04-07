@@ -16,12 +16,13 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
-    <properties>
+   <properties>
         <java.version>1.8</java.version>
-        <dubbo.version>2.5.8</dubbo.version>
-        <zkclient.version>0.1</zkclient.version>
+       <!-- <dubbo.version>2.5.8</dubbo.version>
+        <zkclient.version>0.1</zkclient.version>-->
     </properties>
 
+    <!--
     <dependencyManagement>
         <dependencies>
             <dependency>
@@ -36,7 +37,7 @@
                 <version>${zkclient.version}</version>
             </dependency>
         </dependencies>
-    </dependencyManagement>
+    </dependencyManagement>-->
 
 
 </project>

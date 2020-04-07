@@ -1,2 +1,2 @@
 # Dubbo-springboot-zookeeper
-#注解方式
+#此为注解方式

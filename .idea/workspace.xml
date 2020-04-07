@@ -2,160 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f67ea74-966e-4101-bc8e-fdbf7bacebd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Dubbo-springboot-zookeeper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_unknown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_unknown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_33.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/dubbo-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/src/main/java/com/ltz/dubbo/api/IUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/target/classes/com/ltz/dubbo/api/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/target/dubbo-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/ltz/dubbo/DubboConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/dubbo-consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/src/test/java/com/ltz/dubbo/DubboConsumerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/com/ltz/dubbo/DubboConsumerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/classes/dubbo-consumer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/surefire-reports/TEST-com.ltz.dubbo.DubboConsumerApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/surefire-reports/com.ltz.dubbo.DubboConsumerApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-consumer/target/test-classes/com/ltz/dubbo/DubboConsumerApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-parent/dubbo-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-parent/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/ltz/dubbo/DubboProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/ltz/dubbo/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/main/resources/dubbo-provider.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/src/test/java/com/ltz/dubbo/DubboProviderApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/ltz/dubbo/DubboProviderApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/com/ltz/dubbo/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/classes/dubbo-provider.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/dubbo-provider-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/dubbo-provider-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/surefire-reports/TEST-com.ltz.dubbo.DubboProviderApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/surefire-reports/com.ltz.dubbo.DubboProviderApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/surefire/surefire3991177604474321432tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/surefire/surefire_04944157338803600530tmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/surefire/surefirebooter4810034472686710983.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dubbo-provider/target/test-classes/com/ltz/dubbo/DubboProviderApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_autoconfigure_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_starter_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/classes/com/ltz/dubbo/DubboAnnotationConsumerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/dubbo-annotation-consumer-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/surefire-reports/TEST-com.ltz.dubbo.DubboAnnotationConsumerApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/test-classes/com/ltz/dubbo/DubboAnnotationConsumerApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/classes/com/ltz/dubbo/DubboAnnotationProductApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/classes/com/ltz/dubbo/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/dubbo-annotation-product-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/surefire-reports/TEST-com.ltz.dubbo.DubboAnnotationProductApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/test-classes/com/ltz/dubbo/DubboAnnotationProductApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-api/target/dubbo-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-api/target/dubbo-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/dubbo-annotation-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/ltz/dubbo/DubboConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/src/main/java/com/ltz/dubbo/DubboAnnotationProductApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/resources/dubbo-consumer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/test/java/com/ltz/dubbo/DubboConsumerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/src/test/java/com/ltz/dubbo/DubboAnnotationConsumerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/com/ltz/dubbo/DubboConsumerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/classes/dubbo-consumer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/dubbo-annotation-product-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/dubbo-consumer-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/surefire-reports/TEST-com.ltz.dubbo.DubboConsumerApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/surefire-reports/com.ltz.dubbo.DubboConsumerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/target/surefire-reports/com.ltz.dubbo.DubboAnnotationProductApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/target/test-classes/com/ltz/dubbo/DubboConsumerApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/dubbo-annotation-product.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/ltz/dubbo/DubboProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/src/main/java/com/ltz/dubbo/DubboAnnotationConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/com/ltz/dubbo/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/src/main/java/com/ltz/dubbo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/resources/dubbo-provider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/test/java/com/ltz/dubbo/DubboProviderApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-product/src/test/java/com/ltz/dubbo/DubboAnnotationProductApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/ltz/dubbo/DubboProviderApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/com/ltz/dubbo/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/classes/dubbo-provider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/dubbo-provider-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/dubbo-annotation-consumer-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/dubbo-provider-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/surefire-reports/TEST-com.ltz.dubbo.DubboProviderApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/surefire-reports/com.ltz.dubbo.DubboProviderApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-annotation-consumer/target/surefire-reports/com.ltz.dubbo.DubboAnnotationConsumerApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/surefire/surefire3991177604474321432tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/surefire/surefire_04944157338803600530tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/surefire/surefirebooter4810034472686710983.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/target/test-classes/com/ltz/dubbo/DubboProviderApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,8 +107,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -217,6 +158,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -233,7 +175,22 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DubboConsumerApplicationTests">
+  <component name="RunManager" selected="JUnit.DubboAnnotationConsumerApplicationTests">
+    <configuration name="DubboAnnotationConsumerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dubbo-annotation-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltz.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ltz.dubbo" />
+      <option name="MAIN_CLASS_NAME" value="com.ltz.dubbo.DubboAnnotationConsumerApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DubboConsumerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dubbo-consumer" />
       <extension name="coverage">
@@ -264,6 +221,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DubboAnnotationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-annotation-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.dubbo.DubboAnnotationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboAnnotationConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-annotation-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.dubbo.DubboAnnotationConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboAnnotationProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo-annotation-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.dubbo.DubboAnnotationProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubbo-consumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.dubbo.DubboConsumerApplication" />
@@ -280,6 +258,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DubboAnnotationConsumerApplicationTests" />
         <item itemvalue="JUnit.DubboConsumerApplicationTests" />
         <item itemvalue="JUnit.DubboProviderApplicationTests" />
       </list>
@@ -317,62 +296,87 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586231963558</updated>
-      <workItem from="1586231965233" duration="5212000" />
+      <workItem from="1586231965233" duration="6279000" />
+      <workItem from="1586238725662" duration="3125000" />
     </task>
+    <task id="LOCAL-00001" summary="zookeeper+dubbo+springboot 注解方式整合">
+      <created>1586237675634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586237675634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zookeeper+dubbo+springboot 注解方式整合" />
+    <option name="LAST_COMMIT_MESSAGE" value="zookeeper+dubbo+springboot 注解方式整合" />
   </component>
   <component name="WindowStateProjectService">
     <state x="240" y="77" key="#Project_Structure" timestamp="1586232420998">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="240" y="77" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1586232420998" />
-    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1586233135686">
+    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1586239310102">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1586233135686" />
-    <state width="1238" height="360" key="GridCell.Tab.0.bottom" timestamp="1586237481160">
+    <state x="453" y="128" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1586239310102" />
+    <state x="104" y="23" key="CommitChangelistDialog2" timestamp="1586237674846">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="360" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1586237481160" />
-    <state width="1238" height="360" key="GridCell.Tab.0.center" timestamp="1586237481159">
+    <state x="104" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1586237674846" />
+    <state width="846" height="307" key="GridCell.Tab.0.bottom" timestamp="1586241902418">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="360" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1586237481159" />
-    <state width="1238" height="360" key="GridCell.Tab.0.left" timestamp="1586237481159">
+    <state width="846" height="307" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1586241902418" />
+    <state width="846" height="307" key="GridCell.Tab.0.center" timestamp="1586241902417">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="360" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1586237481159" />
-    <state width="1238" height="360" key="GridCell.Tab.0.right" timestamp="1586237481159">
+    <state width="846" height="307" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1586241902417" />
+    <state width="846" height="307" key="GridCell.Tab.0.left" timestamp="1586241902416">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1238" height="360" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1586237481159" />
-    <state width="846" height="253" key="GridCell.Tab.1.bottom" timestamp="1586237414718">
+    <state width="846" height="307" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1586241902416" />
+    <state width="846" height="307" key="GridCell.Tab.0.right" timestamp="1586241902417">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="846" height="253" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1586237414718" />
-    <state width="846" height="253" key="GridCell.Tab.1.center" timestamp="1586237414717">
+    <state width="846" height="307" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1586241902417" />
+    <state width="846" height="307" key="GridCell.Tab.1.bottom" timestamp="1586241902419">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="846" height="253" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1586237414717" />
-    <state width="846" height="253" key="GridCell.Tab.1.left" timestamp="1586237414717">
+    <state width="846" height="307" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1586241902419" />
+    <state width="846" height="307" key="GridCell.Tab.1.center" timestamp="1586241902418">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="846" height="253" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1586237414717" />
-    <state width="846" height="253" key="GridCell.Tab.1.right" timestamp="1586237414718">
+    <state width="846" height="307" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1586241902418" />
+    <state width="846" height="307" key="GridCell.Tab.1.left" timestamp="1586241902418">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="846" height="253" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1586237414718" />
+    <state width="846" height="307" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1586241902418" />
+    <state width="846" height="307" key="GridCell.Tab.1.right" timestamp="1586241902419">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="846" height="307" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1586241902419" />
     <state x="128" y="23" key="SettingsEditor" timestamp="1586236244695">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1586236244695" />
-    <state x="17" y="115" key="new project wizard" timestamp="1586236088620">
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1586237702533">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="17" y="115" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1586236088620" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1586237702533" />
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1586238735084">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1586238735084" />
+    <state x="17" y="115" key="new project wizard" timestamp="1586239110739">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="17" y="115" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1586239110739" />
     <state x="139" y="102" key="spring file set editor" timestamp="1586236240804">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

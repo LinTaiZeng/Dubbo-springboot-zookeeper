@@ -1,7 +1,0 @@
-#surefire_0
-#Tue Apr 07 13:30:12 CST 2020
-user.dir=/Users/lintaizeng/Documents/Dubbo-springboot-zookeeper/dubbo-provider
-idea.version2019.3.1=true
-maven.repo.local=/Users/lintaizeng/apache-maven-3.6.1/repository
-localRepository=/Users/lintaizeng/apache-maven-3.6.1/repository
-basedir=/Users/lintaizeng/Documents/Dubbo-springboot-zookeeper/dubbo-provider
